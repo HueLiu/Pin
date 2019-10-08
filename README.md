@@ -50,7 +50,7 @@
 
 ##### 汇率查询接口说明
 
-进入 scripts/exchange-rate.js
+进入 `scripts/plugins/exchange-rate.js`
 
 第一行引号内为空或不合法时，使用无需注册的免费 API，数据以 EUROPEAN CENTRAL BANK 每个工作日 CET 时间 16:00 公布的数据为准；
 
