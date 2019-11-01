@@ -1,5 +1,5 @@
 # Pin+
-# Version 2.92
+# Version 2.93
 
 [下载链接](http://t.cn/Aiun6Q3B)
 
